@@ -1,0 +1,22 @@
+# Core Data Analysis Libraries
+pandas
+numpy
+scipy
+
+# Visualization Libraries
+matplotlib
+seaborn
+plotly
+
+# Data Manipulation and Processing
+dask
+openpyxl  # For working with Excel files
+
+# Machine Learning
+scikit-learn
+
+# Interactive Data Analysis Tool
+dtale
+
+# Additional Utilities
+jupyterlab  # For interactive notebooks
